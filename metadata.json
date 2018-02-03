@@ -1,0 +1,10 @@
+{
+    "attribution": "Data \u00a9 OpenStreetMap (and) contributors, CC-BY-SA", 
+    "name": "OSM Bright", 
+    "bounds": "106.796,47.8832,107.0257,47.9727", 
+    "minzoom": "10", 
+    "version": "1.0.0", 
+    "template": "", 
+    "maxzoom": "18", 
+    "description": ""
+}
